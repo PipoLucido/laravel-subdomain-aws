@@ -31,6 +31,7 @@
             function subdominio(){
                 console.log('cambia de pagina')
                 
+                window.open("http://subdominiodos.habitueonline.com/");
             }
         </script>
     </body>
